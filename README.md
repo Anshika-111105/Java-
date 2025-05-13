@@ -10,8 +10,6 @@ This repository provides a structured roadmap for learning Java from the fundame
 - [Advanced Java](#advanced-java)
 - [Concurrency & Multithreading](#concurrency--multithreading)
 - [Data Structures & Algorithms](#data-structures--algorithms)
-- [Spring Framework](#spring-framework)
-- [Microservices & Cloud](#microservices--cloud)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -67,20 +65,6 @@ This repository provides a structured roadmap for learning Java from the fundame
 - Trees & Graphs
 - Dynamic Programming
 
-## Spring Framework
-- Spring Core
-- Spring Boot
-- REST APIs with Spring Boot
-- Spring Data JPA
-- Security with Spring Security
-
-## Microservices & Cloud
-- Introduction to Microservices
-- Spring Cloud
-- Docker & Kubernetes
-- CI/CD with Jenkins/GitHub Actions
-
----
 
 ## Contributing
 Contributions are welcome! Follow these steps:
